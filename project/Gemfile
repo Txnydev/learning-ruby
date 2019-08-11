@@ -1,3 +1,5 @@
 source 'https://rubygems.org'
 
 gem 'os'
+gem 'mysql'
+gem 'test-unit'
